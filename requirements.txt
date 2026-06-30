@@ -1,0 +1,2 @@
+# El candidato no necesita dependencias externas para este reto.
+# pytest y pytest-json-report los garantiza el sistema (job), no el candidato.
