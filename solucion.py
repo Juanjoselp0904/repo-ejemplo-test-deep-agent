@@ -17,5 +17,5 @@ class Contador:
         self.valor = 0
 
     def incrementar(self):
-        self.valor += 1
+        self.valor += 2
         return self.valor
